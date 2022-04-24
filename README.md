@@ -21,7 +21,7 @@ frequecy_oracle.py: LDP categorical frequency oracles including OUE and OLH
 
 grid_generate.py: define the cell in the grid
 
-parameter_setting.py: define the papameters
+parameter_setting.py: define the parameters
 
 utility_metric_query_avae.py: calculate Query MAE
 
